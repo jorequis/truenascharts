@@ -1,4 +1,4 @@
-name: emby
+name: dynamicdns
 description: Emby Server
 annotations:
   title: Emby Server
@@ -20,5 +20,4 @@ icon: https://images-na.ssl-images-amazon.com/images/I/41NwssJC1iL.png
 sources:
   - https://hub.docker.com/r/emby/embyserver
 keywords:
-  - emby
-  - media
+  - dynamicdns
