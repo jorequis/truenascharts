@@ -1,6 +1,6 @@
 {
     "charts": {
-        "emby": {
+        "dynamicdns": {
             "app_readme": "<h1>Emby Server</h1>\n<p>Emby Server is a personal media server with apps on just about every device</p>",
             "categories": [
                 "media"
