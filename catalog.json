@@ -1,44 +1,39 @@
 {
     "charts": {
         "dynamicdns": {
-            "app_readme": "<h1>Emby Server</h1>\n<p>Emby Server is a personal media server with apps on just about every device</p>",
+            "app_readme": "<h1>Dynamic DNS</h1>\n<p>Actualizar la IP de destino automáticamente</p>",
             "categories": [
-                "media"
+                "dns"
             ],
             "description": "Emby Server",
             "healthy": true,
             "healthy_error": null,
-            "home": "https://emby.media/",
-            "location": "/__w/charts/charts/charts/emby",
+            "home": "https://jorgesanchezcarlin.es/",
+            "location": "nose",
             "latest_version": "1.0.0",
             "latest_app_version": "1.0.0",
             "latest_human_version": "v1.0.0",
             "last_update": "2023-09-26 20:30:00",
             "name": "dynamicdns",
             "recommended": false,
-            "title": "Emby Server",
+            "title": "Dynamic DNS",
             "maintainers": [
                 {
-                    "name": "truenas",
-                    "url": "https://www.truenas.com/",
-                    "email": "dev@ixsystems.com"
+                    "name": "Jorge",
+                    "url": "https://jorgesanchezcarlin.es/",
+                    "email": "info@jorgesanchezcarlin.es"
                 }
             ],
             "tags": [
-                "entertainment",
-                "movies",
-                "series",
-                "tv",
-                "streaming"
+                "dynamic",
+                "dns"
             ],
             "screenshots": [
-                "https://i.imgur.com/OFBGwvG.png",
-                "https://emby.media/community/uploads/inline/2165/554dfc8f0bc13_MoviesView2.png"
             ],
             "sources": [
-                "https://hub.docker.com/r/emby/embyserver"
+                "https://jorgesanchezcarlin.es/"
             ],
-            "icon_url": "https://images-na.ssl-images-amazon.com/images/I/41NwssJC1iL.png"
+            "icon_url": "https://raw.githubusercontent.com/jorequis/truenascharts/main/dynamicdns.png"
         }
     }
 }

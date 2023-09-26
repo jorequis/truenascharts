@@ -1,23 +1,23 @@
 name: dynamicdns
-description: Emby Server
+description: Dynamic DNS
 annotations:
-  title: Emby Server
+  title: Dynamic DNS
 type: application
 version: 1.0.0
 apiVersion: v2
 appVersion: 1.0.0
 kubeVersion: '>=1.16.0-0'
 maintainers:
-  - name: truenas
-    url: https://www.truenas.com/
-    email: dev@ixsystems.com
+  - name: Jorge
+    url: https://jorgesanchezcarlin.es/
+    email: info@jorgesanchezcarlin.es
 dependencies:
   - name: common
     repository: file://../../../common/2304.0.1
     version: 2304.0.1
-home: https://emby.media/
-icon: https://images-na.ssl-images-amazon.com/images/I/41NwssJC1iL.png
+home: https://jorgesanchezcarlin.es/
+icon: https://raw.githubusercontent.com/jorequis/truenascharts/main/dynamicdns.png
 sources:
-  - https://hub.docker.com/r/emby/embyserver
+  - https://jorgesanchezcarlin.es
 keywords:
   - dynamicdns
