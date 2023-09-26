@@ -1,0 +1,44 @@
+{
+    "charts": {
+        "emby": {
+            "app_readme": "<h1>Emby Server</h1>\n<p>Emby Server is a personal media server with apps on just about every device</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "Emby Server",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://emby.media/",
+            "location": "/__w/charts/charts/charts/emby",
+            "latest_version": "1.0.28",
+            "latest_app_version": "4.7.14.0",
+            "latest_human_version": "4.7.14.0_1.0.28",
+            "last_update": "2023-09-25 12:42:10",
+            "name": "emby jorge",
+            "recommended": false,
+            "title": "Emby Server",
+            "maintainers": [
+                {
+                    "name": "truenas",
+                    "url": "https://www.truenas.com/",
+                    "email": "dev@ixsystems.com"
+                }
+            ],
+            "tags": [
+                "entertainment",
+                "movies",
+                "series",
+                "tv",
+                "streaming"
+            ],
+            "screenshots": [
+                "https://i.imgur.com/OFBGwvG.png",
+                "https://emby.media/community/uploads/inline/2165/554dfc8f0bc13_MoviesView2.png"
+            ],
+            "sources": [
+                "https://hub.docker.com/r/emby/embyserver"
+            ],
+            "icon_url": "https://images-na.ssl-images-amazon.com/images/I/41NwssJC1iL.png"
+        }
+    }
+}
