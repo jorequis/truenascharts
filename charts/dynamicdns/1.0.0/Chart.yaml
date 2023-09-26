@@ -3,9 +3,9 @@ description: Emby Server
 annotations:
   title: Emby Server
 type: application
-version: 1.0.28
+version: 1.0.0
 apiVersion: v2
-appVersion: 4.7.14.0
+appVersion: 1.0.0
 kubeVersion: '>=1.16.0-0'
 maintainers:
   - name: truenas
