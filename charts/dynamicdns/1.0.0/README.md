@@ -1,4 +1,4 @@
-# Emby Server helm chart
+# Dynamic DNS helm chart
 
 ## Configuration
 

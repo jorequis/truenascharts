@@ -1,11 +1,11 @@
 {
     "charts": {
         "dynamicdns": {
-            "app_readme": "<h1>Dynamic DNS</h1>\n<p>Actualizar la IP de destino automáticamente</p>",
+            "app_readme": "<h1>Dynamic DNS</h1>\n<p>Actualizar la IP de destino de un dominio automáticamente</p>",
             "categories": [
                 "dns"
             ],
-            "description": "Emby Server",
+            "description": "Dynamic DNS",
             "healthy": true,
             "healthy_error": null,
             "home": "https://jorgesanchezcarlin.es/",

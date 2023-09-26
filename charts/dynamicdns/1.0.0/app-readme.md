@@ -1,3 +1,3 @@
-# Emby Server
+# Dynamic DNS
 
-Emby Server is a personal media server with apps on just about every device
+Actualizar la IP de destino de un dominio automáticamente
